@@ -1,0 +1,19 @@
+{
+  "name": "prefixobjpropertyvalues",
+  "version": "0.0.1",
+  "description": "Iterates object properties while prepending to string values given prefix using transformation function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Boris Filipov",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/outbounder/prefixobjpropertyvalues.git"
+  },
+  "bugs": {
+    "url": "https://github.com/outbounder/prefixobjpropertyvalues/issues"
+  },
+  "homepage": "https://github.com/outbounder/prefixobjpropertyvalues"
+}
